@@ -3,11 +3,11 @@
 
 [![Bohdan Kolodii profile views](https://u8views.com/api/v1/github/profiles/49165350/views/day-week-month-total-count.svg)](https://github.com/Yura935)
 
-- [cite_start]🚀 **Currently:** Expanding my Full-Stack capabilities by learning **.NET**[cite: 12].
-- [cite_start]💡 **Experience:** 5 years of professional experience specializing in **Angular** and 1 year working with **Node.js (Fastify)**.
-- [cite_start]🏗️ **Core Projects:** Managed large-scale platforms like **Wizdi** (EdTech) and **Botsi** (SaaS Monetization).
-- [cite_start]📫 **How to reach me:** [bkolodiy20013@gmail.com](mailto:bkolodiy20013@gmail.com) [cite: 7]
-- ⚡️ **Fun fact:** I write my own songs and play acoustic guitar!
+- 🚀 **Currently:** Expanding my Full-Stack capabilities by learning **.NET**[cite: 12].
+- 💡 **Experience:** 5 years of professional experience specializing in **Angular** and 1 year working with **Node.js (Fastify)**.
+- 🏗️ **Core Projects:** Managed large-scale platforms like **Wizdi** (EdTech) and **Botsi** (SaaS Monetization).
+- 📫 **How to reach me:** [bkolodiy20013@gmail.com](mailto:bkolodiy20013@gmail.com) [cite: 7]
+- ⚡️ **Fun fact:** I write my own songs using AI!
 
 ---
 
